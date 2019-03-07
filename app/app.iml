@@ -239,5 +239,11 @@
     <orderEntry type="module" module-name="mupdf" />
     <orderEntry type="module" module-name="sdk" />
     <orderEntry type="module" module-name="mupdf" />
+    <orderEntry type="module" module-name="sdk" />
+    <orderEntry type="module" module-name="mupdf" />
+    <orderEntry type="module" module-name="sdk" />
+    <orderEntry type="module" module-name="mupdf" />
+    <orderEntry type="module" module-name="sdk" />
+    <orderEntry type="module" module-name="mupdf" />
   </component>
 </module>
